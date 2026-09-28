@@ -1,2 +1,3 @@
 # displacement_strain_analysis_kaikoura
-The code in this respository was created for the analysis presented in the manuscript "Coseismic rock slope deformation at different failure stages – towards assessing the likelihood of high hazard avalanching failures"
+The code in this respository was created for the analysis presented in the manuscript "Coseismic rock slope deformation at different failure stages – towards assessing the likelihood of high hazard avalanching failures". Results of digital image correlation of pre- and post-event imagery are used to derive normalised displacements along profile, which are indicative of failure stage transitions.
+As terminology has changed throughout the development of this manuscript, normalised displacements (TSD/normalised translational slope displacement) are used interchangeably with the term strain (i.e. 1D proxy of strain along profile as used in the code became TSD in the manuscript).
